@@ -1,3 +1,11 @@
+**NOTICE**: This is a fork of https://github.com/travis-ci/travis.rb , with the following changes:
+
+* This notice added
+* Added `.prospectus` file for tracking upstream version<Paste>
+* Name of gem changed to "travis-akerl"
+* gh dependency replaced with gh-akerl
+* addressable dependency bumped to "~> 2.5.0"
+
 # The Travis Client [![Build Status](https://travis-ci.org/travis-ci/travis.rb.svg?branch=master)](https://travis-ci.org/travis-ci/travis.rb)
 
 ![The Travis Mascot](http://about.travis-ci.org/images/travis-mascot-200px.png)
